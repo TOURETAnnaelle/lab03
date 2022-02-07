@@ -1,0 +1,40 @@
+aside {
+    width: 20%;
+    padding-left: 1%;
+    padding-right: 0%;
+    margin-left: 20%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+    position: relative;
+}
+
+details {
+    margin-left: 1%;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+details p {
+    position: relative;
+    display: inline;
+    margin-left: 0%;
+    background-color: rgb(229, 226, 226);
+}
+
+summary {
+    color: rgb(24, 4, 44);
+    text-decoration: solid;
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    margin-top: 20%;
+}
